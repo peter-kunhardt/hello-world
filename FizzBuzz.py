@@ -17,3 +17,4 @@ def fizz_buzz(fizz, buzz, end):
         index += 1
 
 fizz_buzz(3, 7, 100)
+
